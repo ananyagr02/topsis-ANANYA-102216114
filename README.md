@@ -20,7 +20,7 @@ $ topsis-ANANYA-102216114 input_filePath weights impacts output_filePath
 ### Arguments
 | Arguments | Description |
 |------------| -----------------|
-| input_file |  "CSV/Excel" file path |
+| input_file |  Input CSV file path |
 | weights | Comma separated string of numbers(weights) |
 | impacts | Comma separated string of '+' or '-' |
 | output_file | Output CSV file path |
