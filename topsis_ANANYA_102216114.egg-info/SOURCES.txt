@@ -1,8 +1,6 @@
 LICENSE
 README.md
 setup.py
-topsis/102216114.py
-topsis/__init__.py
 topsis_ANANYA_102216114.egg-info/PKG-INFO
 topsis_ANANYA_102216114.egg-info/SOURCES.txt
 topsis_ANANYA_102216114.egg-info/dependency_links.txt

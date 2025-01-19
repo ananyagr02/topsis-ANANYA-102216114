@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="topsis-ANANYA-102216114", 
-    version="1.0.1",  
+    version="1.0.2",  
     author="Ananya Gaur", 
     author_email="hiananya02@gmail.com",  
     description="A Python package for performing TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to rank the entries in a dataset.",
@@ -19,7 +19,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "topsis-ANANYA-102216114=topsis.102216114:main",  
+            "topsis-ANANYA-102216114=topsis_102216114:main",  
         ],
     },
     classifiers=[
