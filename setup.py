@@ -18,7 +18,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "topsis-ANANYA-102216114=topsis-ANANYA-102216114:main",  
+            "topsis-ANANYA-102216114=102216114:main",  
         ],
     },
     classifiers=[
