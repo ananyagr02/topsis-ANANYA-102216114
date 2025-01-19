@@ -58,7 +58,7 @@ def topsis(data, wts, imps):
 
 def main():
     if len(sys.argv) != 5:
-        print("Usage: python 102216114.py <InputDataFilePath> <weights> <impacts> <ResultFilePath>")
+        print("Usage: topsis-ANANYA-102216114.py <InputDataFilePath> <weights> <impacts> <ResultFilePath>")
         sys.exit(1)
     inp_file = sys.argv[1]
     wts_input = sys.argv[2]
