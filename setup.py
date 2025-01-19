@@ -8,7 +8,7 @@ setup(
     description="A Python package for performing TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to rank the entries in a dataset.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ananyagr02/topsis-package",  
+    url="https://github.com/ananyagr02/topsis-ANANYA-102216114",  
     packages=find_packages(), 
     py_modules=["topsis"],  
     install_requires=[
