@@ -26,11 +26,11 @@ $ topsis-ANANYA-102216114 input_filePath weights impacts output_filePath
 | output_file | Output CSV file path |
 
 ### Output
-Creates a *output_file*, that contains the original data with Topsis Performance score and rank.
+Creates a csv *output_file*, that contains the original data alongwith additional cloumns of Topsis Performance score and rank.
 
 Example:
 ```bash
-topsis-ANANYA-102216114 data.csv "1,0.25,1,1" "+,-,+,-,+" output.csv 
+$topsis-ANANYA-102216114 data.csv "1,0.25,1,1" "+,-,+,-,+" output.csv 
 ```
 
 <br>

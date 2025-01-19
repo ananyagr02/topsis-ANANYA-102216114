@@ -1,8 +1,10 @@
 from setuptools import setup, find_packages
 
+with open("README.md", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
 setup(
     name="topsis-ANANYA-102216114", 
-    version="1.0.2",  
+    version="1.0.3",  
     author="Ananya Gaur", 
     author_email="hiananya02@gmail.com",  
     description="A Python package for performing TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to rank the entries in a dataset.",
